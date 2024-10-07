@@ -1,0 +1,154 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co.com/zZmKk7q/kindpng-81724-1.png",
+        "review": "A gripping psychological thriller with an unexpected twist at the end.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Psychological",
+            "Mystery"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co.com/XWcFXBc/kindpng-7318921.png",
+        "review": "A powerful memoir about growing up in a strict and abusive household and the journey toward education and self-discovery.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Memoir",
+        "tags": [
+            "Inspiration",
+            "Self-Discovery"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co.com/2ZFgj0N/kindpng-5624060-1.png",
+        "review": "A beautifully written novel blending mystery, romance, and a love for nature.",
+        "totalPages": 368,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Mystery",
+            "Romance",
+            "Nature"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 4,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co.com/5RJq0H3/kindpng-4945926-1.png",
+        "review": "A deeply personal memoir from the former First Lady of the United States, sharing her journey from Chicago to the White House.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Biography",
+        "tags": [
+            "Inspiration",
+            "Leadership",
+            "Personal Growth"
+        ],
+        "publisher": "Crown Publishing",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "image": "https://i.ibb.co.com/PZH1TBz/kindpng-2592315-1.png",
+        "review": "An enchanting novel full of magic, competition, and romance set in a mysterious, traveling circus.",
+        "totalPages": 512,
+        "rating": 4.3,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Romance",
+            "Adventure"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Goldfinch",
+        "author": "Donna Tartt",
+        "image": "https://i.ibb.co.com/KD6nJQJ/pngwing-1.png",
+        "review": "A Pulitzer Prize-winning novel about a boy's journey through grief, art, and self-discovery.",
+        "totalPages": 771,
+        "rating": 4.2,
+        "category": "Literary Fiction",
+        "tags": [
+            "Grief",
+            "Art",
+            "Psychological"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 2013
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co.com/JjjhJgn/kindpng-4022054-1.png",
+        "review": "A timeless fable about following one's dreams and listening to the heart.",
+        "totalPages": 208,
+        "rating": 4.6,
+        "category": "Philosophical Fiction",
+        "tags": [
+            "Inspiration",
+            "Adventure",
+            "Self-Discovery"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 8,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co.com/sKx97Fy/kindpng-1064993.png",
+        "review": "An insightful look into the history of humankind and how we came to dominate the planet.",
+        "totalPages": 443,
+        "rating": 4.5,
+        "category": "Non-Fiction",
+        "tags": [
+            "History",
+            "Science",
+            "Anthropology"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2015
+    },
+    {
+        "bookId": 9,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://i.ibb.co.com/yQMR56g/kindpng-2193744-1.png",
+        "review": "A practical guide to breaking bad habits and forming good ones through small, consistent changes.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": [
+            "Productivity",
+            "Psychology",
+            "Self-Improvement"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    }
+]
